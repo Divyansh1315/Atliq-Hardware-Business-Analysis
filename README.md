@@ -92,6 +92,7 @@ Each business question maps to one or more SQL scripts in the `sql/` folder.
 Through this project, I strengthened my understanding of:
 
 - Writing efficient and readable SQL
+- Exploratory Data analysis
 - Using Views and Stored Procedures for scalable analytics
 - Applying window functions and aggregations
 - Structuring an analytics project for real business use

@@ -27,8 +27,6 @@ Atliq-Hardware-Business-Analysis/
 ├── User Defined Function/         # SQL functions used for data transformation
 ├── Views/                         # SQL views created for simplifying analytics
 ├── sql/                           # SQL queries used for reporting
-├── problem_statement.pdf          # Document describing business goals
-├── Primary_and_Secondary_Analysis.pdf # Supporting analysis & outcomes
 └── README.md                      # Project documentation
 ```
 ---

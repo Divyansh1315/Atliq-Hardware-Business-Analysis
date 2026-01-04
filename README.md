@@ -13,7 +13,6 @@ Atliq Hardware operates multiple sales channels across regions and product lines
 - How sales are trending over time
 - Which markets contribute most to revenue
 - Product performance and profitability
-- Operational inefficiencies and reporting bottlenecks
 
 This project aims to organize, analyze, and visualize key business metrics to help leadership make **data-driven decisions** with confidence.
 

@@ -21,7 +21,8 @@ This project aims to organize, analyze, and visualize key business metrics to he
 ## 🗂️ Repository Structure
 ```text
 Atliq-Hardware-Business-Analysis/
-├── Excel_reports/                 # Excel dashboards, pivot tables, and reports
+├── csv_files/                     # Raw data extracted from MySQL
+├── Excel_reports/                 # Charts, pivot tables, and reports
 ├── Stored Procedures/             # Reusable SQL procedures for analytics
 ├── User Defined Function/         # SQL functions used for data transformation
 ├── Views/                         # SQL views created for simplifying analytics

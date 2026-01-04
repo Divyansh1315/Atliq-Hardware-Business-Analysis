@@ -21,8 +21,8 @@ This project aims to organize, analyze, and visualize key business metrics to he
 ## 🗂️ Repository Structure
 ```text
 Atliq-Hardware-Business-Analysis/
-├── csv_files/                     # Raw data extracted from MySQL
-├── Excel_reports/                 # Charts, pivot tables, and reports
+├── csv_files/                     # csv reports extracted from MySQL
+├── Excel_reports/                 # Charts, pivot tables, and  analytical reports
 ├── Stored Procedures/             # Reusable SQL procedures for analytics
 ├── User Defined Function/         # SQL functions used for data transformation
 ├── Views/                         # SQL views created for simplifying analytics
@@ -73,7 +73,7 @@ This project answers key business questions such as:
 - Which products and categories drive revenue?
 - What are the top and bottom performing regions?
 - How do sales trends evolve month-over-month?
-Each business question maps to one or more SQL scripts in the `sql/` folder.
+Each business question maps to one or more SQL scripts in the `sql/`folder.
 
 ---
 

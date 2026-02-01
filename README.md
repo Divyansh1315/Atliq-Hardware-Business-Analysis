@@ -59,9 +59,6 @@ Database views created to support repeated querying patterns.
 ### Excel Reports
 Data exports, visual analysis, and presentation-ready reports in Excel format.
 
-### Documentation
-Both the **problem statement** and **secondary analysis** are included as PDF files for full project context.
-
 ---
 
 ## ❓ Business Questions Addressed

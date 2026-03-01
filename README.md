@@ -5,9 +5,9 @@ The analysis heavily uses **SQL, Stored Procedures, Views, Excel reporting, and 
 
 ---
 
-## 🔍 Project Overview
+##  Project Overview
 
-### 📌 Business Problem
+###  Business Problem
 Atliq Hardware operates multiple sales channels across regions and product lines but lacked structured insights into:
 
 - How sales are trending over time
@@ -18,7 +18,7 @@ This project aims to organize, analyze, and visualize key business metrics to he
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 ```text
 Atliq-Hardware-Business-Analysis/
 ├── csv_files/                     # csv reports extracted from MySQL
@@ -31,7 +31,7 @@ Atliq-Hardware-Business-Analysis/
 ```
 ---
 
-## 📊 Tools & Technologies
+## Tools & Technologies
 
 **Databases & Querying**
 - MySQL Workbench 
@@ -45,7 +45,7 @@ Atliq-Hardware-Business-Analysis/
 - GitHub for project organization and sharing
 
 ---
-## 📄 What You’ll Find
+##  What You’ll Find
 
 ### SQL Queries (`sql/`)
 All queries fired during the analytics phase, grouped and documented which are used for generating different business reports. See [`sql/README.md`](./sql/README.md) for details.
@@ -61,7 +61,7 @@ Data exports, visual analysis, and presentation-ready reports in Excel format.
 
 ---
 
-## ❓ Business Questions Addressed
+## Business Questions Addressed
 
 This project answers key business questions such as:
 
@@ -74,7 +74,7 @@ Each business question maps to one or more SQL scripts in the `sql/`folder.
 
 ---
 
-## 📊 Key Insights & Outcomes
+## Key Insights & Outcomes
 
 - Identified top-performing markets contributing the majority of revenue
 - Highlighted sales concentration risks across regions
@@ -84,7 +84,7 @@ Each business question maps to one or more SQL scripts in the `sql/`folder.
 
 ---
 
-## 📚 What I Learned
+## What I Learned
 
 Through this project, I strengthened my understanding of:
 
@@ -98,7 +98,7 @@ Through this project, I strengthened my understanding of:
 
 ---
 
-## 🛠️ How to Use
+## How to Use
 
 1. **Clone the repository**
    ```bash
@@ -118,6 +118,6 @@ Through this project, I strengthened my understanding of:
 
 --- 
 
-## ✉️ Contact
+## Contact
 
 For questions, suggestions, or collaboration, feel free to raise an issue or connect via GitHub.
